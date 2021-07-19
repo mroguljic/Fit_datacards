@@ -1,0 +1,15 @@
+INFO: (function: getNormalizations) FitDiagnostics.cc: 780 -- Generating toy data for evaluating per-bin uncertainties and covariances with post-fit nuisance parameters with 200 toys
+INFO: (function: improveOnce) CascadeMinimizer.cc: 184 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 207 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 212 -- Minimization success! status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 184 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 207 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 212 -- Minimization success! status=0
+DEBUG: (function: runSpecific) FitDiagnostics.cc: 305 -- Fit B-only, status = 0, numBadNLL = 0, covariance quality = 3
+INFO: (function: getNormalizations) FitDiagnostics.cc: 780 -- Generating toy data for evaluating per-bin uncertainties and covariances with post-fit nuisance parameters with 200 toys
+INFO: (function: improveOnce) CascadeMinimizer.cc: 184 -- Minimisation configured with Type=Minuit2, Algo=Migrad, strategy=0, tolerance=0.1
+INFO: (function: improveOnce) CascadeMinimizer.cc: 207 -- Minimisation finished with status=0
+INFO: (function: improveOnce) CascadeMinimizer.cc: 212 -- Minimization success! status=0
+INFO: (function: doFit) FitterAlgoBase.cc: 343 -- Running Minos for POI r
+DEBUG: (function: runSpecific) FitDiagnostics.cc: 414 -- Fit S+B, status = 0, numBadNLL = 0, covariance quality = 3
+INFO: (function: getNormalizations) FitDiagnostics.cc: 780 -- Generating toy data for evaluating per-bin uncertainties and covariances with post-fit nuisance parameters with 200 toys
